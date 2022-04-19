@@ -1,0 +1,3 @@
+/Users/pleed0215/Documents/mystudy/sfml/boilerplate/cmake-build-debug/CMakeFiles/boilerplate.dir
+/Users/pleed0215/Documents/mystudy/sfml/boilerplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pleed0215/Documents/mystudy/sfml/boilerplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
